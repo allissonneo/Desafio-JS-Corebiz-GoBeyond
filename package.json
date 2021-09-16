@@ -1,0 +1,21 @@
+{
+  "name": "funcionarios-empresa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "desafio-JS-Corebiz-GoBeyond"
+  },
+  "keywords": [
+    "GoBeyond"
+  ],
+  "author": "Allisson Neo",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

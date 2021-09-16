@@ -7,11 +7,6 @@ Montar um algoritmo adicionando mais funcionários e ao resultado final o nome d
 
 ### Parte 3
 Transformar Esse algoritmo em JavaScript
-
-## Authors
-
-- [@allissonneo](https://www.github.com/allissonneo)
-
   
 ## Tech Stack
 
@@ -23,5 +18,14 @@ Transformar Esse algoritmo em JavaScript
 ## Screenshots
 
 ![ScreenShot Terminal](https://i.imgur.com/mogWPDW.png)
+
+## Rodar o Projeto
+```bash
+  node index.js
+```
+
+## Author
+
+- [@allissonneo](https://www.github.com/allissonneo)
 
   

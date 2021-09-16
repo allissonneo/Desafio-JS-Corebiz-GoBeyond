@@ -22,6 +22,6 @@ Transformar Esse algoritmo em JavaScript
   
 ## Screenshots
 
-![ScreenShot Terminal](https://uploaddeimagens.com.br/images/003/433/286/full/Satifation_NodeJS?1631771233)
+![ScreenShot Terminal](https://photos.app.goo.gl/8QgXf5pJxHs4GaZf7)
 
   

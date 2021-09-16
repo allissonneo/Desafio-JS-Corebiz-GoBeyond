@@ -22,6 +22,6 @@ Transformar Esse algoritmo em JavaScript
   
 ## Screenshots
 
-![ScreenShot Terminal](https://photos.app.goo.gl/8QgXf5pJxHs4GaZf7)
+![ScreenShot Terminal](https://i.imgur.com/mogWPDW.png)
 
   
